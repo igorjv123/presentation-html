@@ -1,0 +1,13 @@
+{
+  "name": "present-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./presentation/app || node ./presentation/app"
+  },
+  "dependencies": {
+    "barecss": "^1.1.1",
+    "presentation": "file:presentation"
+  }
+}
