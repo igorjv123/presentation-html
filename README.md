@@ -13,3 +13,5 @@ npm install
 ```bash
 npm start
 ```
+### Problems?
+Install nodemon || change script start in package.json
